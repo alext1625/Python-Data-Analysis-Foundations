@@ -60,4 +60,3 @@ summary = pd.DataFrame({
 
 summary = summary.fillna(0)     # Replaces NaN valuees with 0
 
-print(summary)
