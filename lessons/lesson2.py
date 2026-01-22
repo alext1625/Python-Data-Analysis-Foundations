@@ -3,7 +3,7 @@
 import pandas as pd
 
 # Loading dataset (CSV, using ; as seperator)
-df = pd.read_csv("data.csv", sep=";")
+df = pd.read_csv("datasets/data.csv", sep=";")
 
 # First things to always do with CSV
 
